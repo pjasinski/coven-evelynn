@@ -1,0 +1,6 @@
+#181818 - black
+#484860 - purple
+#D8D8D8 - white
+#901830 - red
+#789090 - light green/gray
+#183030 - green
